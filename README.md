@@ -1,5 +1,6 @@
 ## Hi there 👋
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhhr0321&hide=JupyterNotebook,Tex)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhhr0321&hide=Jupyter%20Notebook,Tex&layout=compact&langs_count=8&theme=radical)
+
 <!--
 **zhhr0321/zhhr0321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
